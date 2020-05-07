@@ -1,0 +1,27 @@
+.blackCard {
+    min-height: 200px;
+    height: '100%';
+    width: '100%';
+    background-color: black;
+    padding-top: 2.5rem;
+    padding-bottom: 1.5rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
+  }
+  .route{
+    cursor: pointer;
+    color:#fff;
+    padding: 0.5rem;
+    font-weight: 600;
+  }
+  .route2{
+    cursor: pointer;
+    color:rgb(207, 194, 194);
+    padding: 0.5rem;
+    font-weight: 450;
+  }
+  .MusicDb{
+    height: 40px;
+    width: 100px;
+   
+  }

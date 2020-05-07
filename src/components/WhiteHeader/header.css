@@ -1,0 +1,32 @@
+.logo{
+    height: 40px;
+    width: 100px;
+    display: flex;
+    justify-self: flex-start;
+    align-self: start;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-content: center;
+    align-items: center;
+    vertical-align: baseline;
+   /* justify-content: center;*/
+}
+.profile{
+    font-weight: 500;
+  align-self: flex-end;
+  justify-content: end;
+  align-content: flex-end;
+  align-items: flex-end;
+
+}
+.profileImg{
+    height: 30px;
+    width: 40px;
+    align-self: flex-end;
+    justify-content: end;
+    align-content: flex-end;
+    align-items: flex-end;
+}

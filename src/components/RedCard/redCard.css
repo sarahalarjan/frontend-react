@@ -1,0 +1,31 @@
+.redCard {
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    align-content: center;
+    vertical-align: middle;
+    color: #fff;
+    height: 400px;
+    width: '100%';
+    background: linear-gradient(rgba(250, 0, 0, 0.5), #000000);
+    background-color: red
+  }
+
+  .boxs {
+    height: 180px;
+    width: 120px;
+    max-width: 140px;
+    max-height: 140px;
+    border: 1px solid white;
+    background: linear-gradient(to bottom right, rgb(194, 194, 201), transparent, rgb(194, 194, 201));
+    margin-bottom: 30px;
+    margin-right: 40px;
+  
+  }
+  .hit {
+    height: 80px;
+    width: 120px;
+    margin-top: 15px;
+    cursor: pointer;
+  }
+  

@@ -1,0 +1,14 @@
+.Title {
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  color: #000;
+  font-weight: 900;
+    margin-bottom: 1.5em;
+  
+    color: #000;
+  }
+
+  
